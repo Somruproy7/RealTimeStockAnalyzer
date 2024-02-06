@@ -1,6 +1,6 @@
 **1.Code**
 
-**2.Running video **
+**2.Running video**
 
 **3.Dashbaord report of the stocks**
 
